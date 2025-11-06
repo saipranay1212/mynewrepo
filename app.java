@@ -3,7 +3,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-<<<<<<< Updated upstream
+
 // dev-2 code added here
 import java.util.Scanner;
 
@@ -23,7 +23,6 @@ public class SumOfNumbers {
         input.close();
     }
 }
-=======
 
 new code by dev-1 without pull data from github
 >>>>>>> Stashed changes
